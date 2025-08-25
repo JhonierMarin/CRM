@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Diagnostico;
 use Illuminate\Http\Request;
-//test
+//testsa
 class DiagnosticoController extends Controller
 {
     public function store(Request $request)
